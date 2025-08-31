@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pavani Mopuru</h1>
-<h3 align="center">Associate Test Engineer @ Tech Mahindra | Aspiring Data Analyst</h3>
+<h3 align="center">Associate Test Engineer @ Tech Mahindra | Transitioning to Data Analyst</h3>
 
 ---
 
