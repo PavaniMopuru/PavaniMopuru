@@ -5,7 +5,7 @@
 
 ### 👩‍💻 About Me  
 - 💼 Currently working as **Associate Test Engineer** at **Tech Mahindra**  
-- 📊 Transitioning into **Data Analytics** with a focus on **Power BI & Data Visualization**  
+- 📊 Transitioning into **Data Analytics** with a focus on **SQL, Pandas, Power BI & Data Visualization**  
 - 👯 Open to collaborating on **SQL, Power BI, Pandas, and Data Analysis projects**  
 - 📫 Reach me at: **mopurupavani17@gmail.com**  
 
