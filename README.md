@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Pavani Mopuru</h1>
 <h3 align="center">Associate Test Engineer @ Tech Mahindra | Transitioning to Data Analyst</h3>
 
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=pavanimopuru&label=Profile%20views&color=0e75b6&style=flat" alt="pavanimopuru" /> 
+</p>
+
 ---
 
 ### 👩‍💻 About Me  
